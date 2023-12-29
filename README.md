@@ -62,3 +62,7 @@ Le gestionnaire de probabilités permet d'analyser les lois de probabilité en f
 Le calcul des mesures permet d'effectuer des calculs de mesures statistiques sur les données du projet.
 <img src="captures/calcul-mesurement.PNG">
 
+###Les tests
+<img src="captures/test.PNG">
+
+
